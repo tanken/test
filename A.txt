@@ -1,31 +1,31 @@
  
 A
 Academic
-literacy, 7, 237, 302, 310, 336, 337, 338
-skills, 210, 217, 303
-writing, 221, 310, 363-368, 370, 371, 372, 378, 379, 780, 381, 383, 384, 385
-assignments, 363-368, 370, 371, 372, 378, 379, 380, 381, 383, 385
+assignments, 363–68, 370–72, 379–83, 384, 386
 genre classification, 372
-text genre, 370, 371
-type and genre, 367, 372, 382
+literacy, 7, 237, 302, 310, 336–38
+skills, 210, 217, 303
+text genre, 370–71
+type and genre, 367, 372, 383
+writing, 221, 310, 363–68, 370–72, 379–82, 384–86
 ACTFL (American Council on The Teaching of Foreign Languages), 318
 Activation
 brain. See Brain research
 cortical, 4
+function, 16, 17
 grammatical knowledge, 123, 517
-function, 16, 17 
 level, 96
-AES (Automated Essay Scoring), 2, 4, 68, 70, 71, 72, 74, 75, 83, 85, 86
+AES (Automated Essay Scoring), 2, 4, 68, 70–72, 74–75, 84, 86–87
 Age-fitness Pareto optimization, 40
-AIC (Akaike Information Criterion), 59, 61, 158, 159, 160
+AIC (Akaike Information Criterion), 59, 62, 158, 159, 160
 Akaike Information Criteria (AIC). See AIC
 ALP (Assessment Literacy Project), 422, 425, 429, 433
 American Council on the Teaching of Foreign Languages (ACTFL). See ACTFL
 AMOS. See Statistical tests/tools
-ANN (Artificial neural network), 2, 14, 15, 16, 19, 24, 25, 27, 30
+ANN (Artificial neural network), 2, 14–16, 19, 24–25, 27, 30
 accuracy, 16, 27
-input/input layer, 16, 17, 18, 28, 29
-precision, 14, 15, 17, 27, 28
+input/input layer, 16, 17, 27, 29
+precision, 14, 15, 17, 27–28
 Aphasia
 and language learning, 542, 543
 aphasics, 542, 543, 544
@@ -33,34 +33,35 @@ study of, 540, 543, 544
 AQ (Autism-spectrum Quotient), 103
 Artificial neural network (ANN). See ANN
 Assessment. See Diagnostic, Formative
-concept, 425, 432, 433
-conditions, 161, 172, 188, 194, 196, 200, 221, 222, 384, 411, 468, 469, 547
-contexts, 1. 6, 10, 110, 123, 125, 127, 140,151, 156, 160, 189, 211, 213, 221, 222, 225, 226, 227, 228, 242, 246, 268, 286, 287, 299, 30, 313, 337, 384, 391, 393, 419, 424, 429, 435, 437, 439, 440, 441, 458, 459, 460, 468, 470, 480, 491, 492, 496, 497, 503, 505, 507, 515, 519, 527, 540, 555, 557, 559, 563, 567, 568, 576, 577, 
-for learning, formative, 85, 219, 237, 268, 269, 418, 419, 423, 425, 427, 437, 452, 453, 467
-framework, 4, 122, 123
-instrument, 226, 227, 338, 563
+concept, 426, 431–32
+conditions, 161, 172, 188, 194, 196, 200, 221–22, 384, 411, 468–69, 547
+contexts, 1, 6, 10, 110, 123, 125, 140, 151, 156, 160, 189, 211, 213, 221–22, 225–28, 242, 246, 248, 286–87, 299–300, 313, 337, 385, 391, 393, 419, 424, 429, 435, 437, 439, 440–41, 458–60, 468, 470, 480, 491–92, 496–97, 503, 505, 507, 515, 519, 527, 540, 555, 557,559, 563, 567–68, 576–77
+for learning, formative, 86, 219, 237, 268–69, 418–19, 423, 425, 427, 437, 452–53, 467
+framework, 4, 122–23
+instrument, 226–27, 338, 563
 multimodal, 339, 353
 neurological approach, 534
 of learning, 423
-of learning outcomes, 238, 239, 336
-of listening, See Listening Assessment
-of reading, See Reading Assessment 
-of speaking, See Speaking Assessment
-of writing, See Writing Assessment  
+of learning outcomes, 238–39, 336
+of listening. See Listening Assessment
+of reading. See Reading Assessment
+of speaking. See Speaking Assessment
+of writing. See Writing Assessment
 outcome, 2, 4, 121
 plan, 426, 432, 452, 456
-policy, 1, 201, 215, 225, 231, 232, 233, 245, 246, 247, 248, 303, 418, 440, 468, 488
-practices, 1, 9, 10, 337, 420, 421, 422, 440
+policy, 1, 201, 215, 225, 231–33, 245–48, 303, 418, 440, 468, 488
+practices, 1, 9–10, 337, 420–22
 practitioners, 255, 257, 259
-purposes, 126, 371, 422
+procedure, 7, 271
+purposes, 126, 309, 371, 422
 results, 72, 224
 rubric. See Scales/Rubrics
 system, 10, 71, 240, 456
-task, 101, 123, 126, 353, 419, 420, 426, 431, 432, 456
+task, 101, 123, 126, 353, 419, 420, 426, 431–32, 456
 techniques, 426, 432
 tool, 339, 351, 354, 426, 439, 453, 456, 564
-Assessment literacy, 8, 418, 419, 420, 421, 422, 423, 425, 426, 427, 428, 441, 442, 443, 450,
-definition, 421
+Assessment literacy, 8, 418–23, 425–28, 441–44, 450
+definition, 419
 Assessment Literacy Project (ALP). See ALP
 Assessment Use Argument, 213
 Audio Lingual Method (ALM). See Language Teaching Methods
@@ -73,96 +74,97 @@ BAWE (British Academic Written English), 371
 Bayesian Information Criterion (BIC). See BIC
 BCLZ (Banked Cloze), 154, 156
 BCT (Business Chinese Test), 318
-Bias, 5, 17, 18, 74, 162, 184, 186, 187, 188, 190, 191, 192, 193, 194, 196, 197, 198, 199, 200, 288, 323, 390, 391, 545
-Bias Terms, 17, 18
-BIC (Bayesian Information Criterion), 59, 61
-Bifactor model, 3, 48, 51, 52, 53, 57, 58, 59, 60, 61, 62, 63
+Bias, 5, 17, 74, 162, 184, 186–88, 190–94, 196–200, 288, 323, 390–91, 545
+Bias Terms, 17
+BIC (Bayesian Information Criterion), 59, 62
+Bifactor model, 3, 48, 51–53, 64, 57–64
 Brain (research)
-activation, 91, 94, 95 ,96, 97, 98, 101, 102, 105, 106, 107, 109, 541, 547
+activation, 92, 94–98, 101–2, 105–7, 109, 541, 547
 basal ganglia, 97, 542, 543, 544
 cerebellar dentate nucleus, 542
+cortex, 542
 cortical, 4, 95, 97
-function, 542, 546
-cortex, 541,542
+function, 543, 546
 oxygen, 93
-putamen, 96, 97, 105, 106, 542
-region/area, 96, 97, 105, 541, 542, 543, 544, 545, 546, 547
+putamen, 97, 105–6, 542
+region/area, 96–97, 106, 541–47
 subcortical, 97, 542
 British Academic Written English (BAWE). See BAWE
 Business Chinese Test (BCT). See BCT
 C
 CAEL (Canadian Academic English Language), 101
-Calibration, 71, 73, 77, 78, 79, 80, 81, 83, 84, 171, 244, 586
+Calibration, 71, 74, Error! Not a valid bookmark in entry on page 81, 84–85, 171, 244, 586
 Canadian Academic English Language (CAEL). See CAEL
 Canadian Language Benchmarks (CLB). See CLB
 Canadian Test of English for Scholars and Trainees (CanTEST). See CanTEST
 CanTEST (Canadian Test of English for Scholars and Trainees), 101
 CART (classification and regression trees), 15, 19
-Cascade model, of professional development, 423
+Cascade model of professional development. See Training/Professional Development
 CCCC (Children’s Chinese Competency Certification), 319
 CEAL (Centre for English and Additional Languages), 241
 CEFR (Common European Framework of Reference), 92, 97, 100, 116, 321, 445, 448
 CELEX. See Coh-Metrix
 Centre for English and Additional Languages (CEAL). See CEAL
-CEPAS (Common English Proficiency Assessment Scheme), 239, 240, 244
+CEPAS (Common English Proficiency Assessment Scheme), 239–40, 244
 Cerebellar dentate nucleus. See Brain (research)
-CET (College English Test), 8, 440, 445, 446, 448, 449, 450, 451, 452, 453, 454, 455, 456, 469
+CET (College English Test), 8, 440, 445–46, 448–56, 469
 CFA (Confirmatory factor analysis). See Statistical tests/tools
-CFI (Comparative Fit Index), 132, 135, 136, 137, 138, 157, 158, 159, 160, 174, 175, 176
+CFI (Comparative factor analysis), 135–38, 157–60, 174–76
+CFI (Comparative Fit Index), 132
 Children’s Chinese Competency Certification (CCCC). See CCCC
 Chinese as a Second Language (CSL). See CSL
 Chinese test takers, 5, 149
 Chi-square. See Statistical tests/tools
 City University of Hong Kong (CityU). See CityU
-CityU (City University of Hong Kong), 255, 256, 257, 258, 259
+CityU (City University of Hong Kong), 255–59
 Claim. See Validity
 Classical Test Theory (CTT). See CTT
 Classification and regression trees (CART). See CART
 CLB (Canadian Language Benchmarks), 92, 101
 CLL (Communicative language learning), 185, 470, 480
-Cluster analysis, 5, 184, 185, 188, 190, 196, 198, 199, 200
-Dendrogram, 197, 199
-CLT (Communicative Language Teaching), See Language Teaching Methods 
+CLT (Communicative Language Teaching). See Language Teaching Methods
+Cluster analysis, 5, 184–85, 188, 190, 196, 198–200
+Dendrogram, 197
 COCA (Corpus of Contemporary American English), 288
-Coding 19, 368, 370, 371, 372, 545
-reliability, intra- and inter-coder, 371
-Cog (Cognitive), 
-abilities, 58, 103, 156, 384, 537, 547
-and metacognitive strategies, 5, 122, 123, 126, 127, 129, 132, 134, 135, , 136, 149, 150, 151, 152, 153, 156, 160, 161, 371, 536
+Coding, 19, 368, 370–72, 545
+reliability, intra- and inter-coder, 372
+Cog (Cognitive)
+abilities, 58, 104, 156, 385, 537, 538, 547
+and metacognitive strategies, 5, 123, 126, 129, 132, 134–35, 136, 149–53, 156, 160–61, 371, 536
 load, 15
-neuroscience, 534, 539, 544
-process, 16, 19, 21, 22, 49, 53, 56, 63, 123, 126, 127, 186, 365, 381, 516, 519, 525, 526, 538, 547
-strategy, 5, 136, 149, 150, 151, 152, 153, 156, 160, 161
-validity, 123, 138, 365, 382, 383, 384
+neuroscience, 534, 540, 544
+process, 16, 19, 21, 49, 53, 56, 64, 123, 126–28, 186, 365, 382, 516, 519, 525–26, 538, 547
+strategy, 5, 136, 149–53, 156, 160–61
+validity, 123, 138, 365, 382–85
 Cognitive. See Cog
 Coh-Metrix
 analysis, 23, 25, 41
 attributes, 14
-CELEX, 14, 24, 26, 28, 29, 42, 43, 45
+CELEX, 14, 24, 26, 28–29, 42–43, 45
 formula, 21
 hypernym/hypernymy, 22, 39
 imagability, 14, 23, 26, 28, 30
-index, 21, 22
+index, 21
 indices, 21, 36, 37, 38
 polysemy, 22, 39
-readability, 21, 22, 26, 37, 41
+readability, 21–22, 26, 37, 41
 Second Language Reading Index, 21
-sentence adjacent, 42, 43
+sentence adjacent, 42–43
 text easability, 14, 23, 26, 28, 30, 41
-variables, 21, 23, 25, 28, 29, 38, 40, 42, 44
+variables, 21, 23, 25, 28–29, 38, 40, 42, 44
 verb count, 18
 verb overlap, 14, 23, 26, 28, 30
-verb phrases, 23, 30
+verb phrases, 23, 29
 College English Test (CET). See CET
 COM (Comprehending), 137
-	cognitive/metacognitive strategies, 126, 129, 134, 135, 136, 137, 152
+cognitive/metacognitive strategies, 126, 129, 134–37, 152
 Common English Proficiency Assessment Scheme (CEPAS). See CEPAS
 Common European Framework of Reference (CEFR). See CEFR
-Common variance, 51, 52, 53, 63
+Common variance, 51–53, 64
 Communicative
-approach, 466, 467, 469, 470, 471, 473, 476, 477, 479, 480
-competence, 7, 45, 302, 389, 390, 393, 445, 447
-language ability, 123, 125, 440, 441, 460, 
+approach, 466–67, 469–71, 473, 476–77, 479–80
+competence, 7, 45, 302, 389–90, 393, 445, 447
+language ability, 123, 125, 440–41, 460
 strategies, 393
 Communicative language learning (CLL). See CLL
 Communicative Language Teaching (CLT). See Language Teaching Methods (CLT)
@@ -172,72 +174,71 @@ Comprehending. See COM
 Computer administered tests, 271
 Computer-adaptive test (CAT). See Test form(s)/versions
 Computer-based test (CBT). See TOEFL
-Connotation, 85, 545
+Connotation, 86, 545
 ConQuest. See Rasch analysis, analyses
 Construct. See Validity
 Content. See Validity
 Content word lemmas, 42
 Context
-diciplines, 1, 38, 217, 223, 227, 239, 266, 270, 271, 274,276, 364, 367, 369, 373, 535, 557, 566 
-local and global, 184, 235, 267, 302, 303, 305, 308, 309, 310, 311, 312,  313, 318,, 419, 429, 438, 488, 527, 555, 556, 576
-region, 2, 10, 172, 302, 304, 318, 328, 367, 423, 433, 435, 451, 535, 556, 586 
+disciplines, 1, 38, 217, 223, 227, 240, 266, 270–71, 274, 277, 364, 367, 369, 374, 535, 557, 566
+local and global, 184, 235, 267, 302–3, 305, 311, 308–13, 317, 419, 429, 438, 488, 527, 555–56, 574, 576, 591
+region, 2, 10, 172, 302, 304, 318, 328, 367, 423, 433, 435, 451, 535, 556, 587
 rural, 468, 470, 478, 480, 482
 validity, 58
 Contrastive rhetoric, 189, 195
-Corpus analysis, 2, 21, 22, 286, 287, 288, 326,333, 335, 370,
+Corpus analysis, 2, 21–22, 286–88, 326, 333, 334, 370
 Corpus of Contemporary American English (COCA). See COCA
-Correlated factor model, 49, 50, 51, 52, 167, 170, 173, 174, 175, 177, 178
-Correlation, 21, 26, 37, 38, 40, 41, 43, 50, 53, 55, 59, 60, 62, 132, 135, 139, 171, 178, 179, 246, 292, 321, 322, 323, 325, 326, 327, 332, 333, 334, 335,  365, 410, 495, 496, 498, 502, 580, 586
+Correlated factor model, 49–53, 167, 170, 173–75, 177–78
+Correlation, 21, 26, 37–38, 38, 40–41, 43, 50, 53, 55, 59, 61, 63, 132, 135, 139, 171, 178–79, 246, 292, 321–23, 325–27, 365, 410, 525–27, 498, 502, 580, 586
 Cortical. See Brain (research)
 Covariance structure, 171
-CRTs (Cognitive Rater Types), 188, 194, 195, 200
-CSL (Chinese as a Second Language), 7, 318, 319, 320, 321, 322, 323, 324, 327, 328
-definition, 318
-C.Test (Test of Practical Chinese), 319
+CRTs (Cognitive Rater Types), 188, 194–95, 200
+CSL (Chinese as a Second Language), 7, 318–24, 327–28
+C-Test (Test of Practical Chinese), 319
 CTT (Classical Test Theory), 536
 Curriculum
-implementation, 69, 169, 185, 232, 233, 234, 235, 245, 247, 249, 268, 287,328, 373, 460 ,  469, 470, 472, 480, 489, 507, 508, 582, 583, 589  
+implementation, 69, 169, 185, 232–35, 245, 247, 249, 268, 287, 328, 374, 460, 469–70, 472, 480, 490, 507–8, 582–83, 589
 National English Curriculum, new, 466, 467
 outcomes-based, 305, 488
 project-based learning, 302, 305
-Cut-off, 83, 93, 175, 496
+Cut-off, 84, 93, 175, 496
 D
 Davies-Bouldin’s (DB’s) Index, 199
-Declarative 
-	knowledge, 125
-	learning, 543
-	memory, 543
- Degrees of freedom (df). See df
+Declarative
+knowledge, 125
+learning, 543
+memory, 543
+Degrees of freedom (df). See df
 Dendrogram. See Cluster analysis, See Cluster analysis
 Density
 conceptual, 19, 518
 co-reference, 22
 orality markers, 454, 458
-preposition phrase, 14, 23, 26, 28, 29, 30
+preposition phrase, 14, 23, 26, 28–29
 syntatic pattern, 23
 Deviance/deviances. See Multidimensional
-df (Degrees of freedom), 58, 59, 157, 158, 160, 174, 176
+df (Degrees of freedom), 59, 157–58, 160, 174, 176
 Diagnostic assessment/testing
-at risk, 215, 220, 222, 224,, 267, 269, 272, 273, 274
+and formative assessment, 267–68
+at risk, 215, 220, 222, 224, 267, 269, 272–74
 context, 270, 271
 definition, 268
-DELA (Diagnostic English Language Assessment), 210, 215, 216, 219, 221, 222, 223, 224, 225, 226, 227, 269, 270
-DELNA (Diagnostic English Language Needs Assessment), 6, 215, 269, 270, 271, 272, 273, 275, 276
-DELTA (Diagnostic English Language Tracking Assessment), 231, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 255, 256, 257, 258, 259, 260, 584, 585, 586, 587, 588, 589, 591
+DELA (Diagnostic English Language Assessment), 210, 215–16, 221–27, 269–70
+DELNA (Diagnostic English Language Needs Assessment), 6, 215, 269–73, 275–77
+DELTA (Diagnostic English Language Tracking Assessment), 231, 240–51, 255–60, 584–89, 590, 592
 embedded approach, 271, 274, 276
-feedback, 19, 212, 213, 215, 219, 220, 224, 225, 228, 240, 248, 256, , 273, 274, 276, 294 298, 299, 585, 589, 590
+feedback, 19, 212–13, 215, 219–20, 224–25, 228, 240, 248, 256, 273–74, 277, 294, 299–300, 586, 590
 hybrid-model, 270
 language assessment, 210, 212, 231
 mandatory vs voluntary, 215, 268, 275
-MASUS (Measuring the Academic Skills of University of Sydney Students), 210, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227
-PEDA (Post-Entry Diagnostic Assessment), 266, 267, 268, 277
-pedagogical support/ targeted pedagogical intervention, 266, 269, 270, 274, 275, 276,
-277
-PELA (Post-Entry Language Assessment), 210, 211, 212, 213, 214, 220, 223, 224, 225, 226, 227, 228, 267, 269
+MASUS (Measuring the Academic Skills of University of Sydney Students), 210, 216–27
+PEDA (Post-Entry Diagnostic Assessment), 266–68, 277
+pedagogical support/targeted pedagogical intervention, 266, 269–70, 274–77
+PELA (Post-Entry Language Assessment), 210–14, 220, 223–28, 267, 269
 SAFE (Self-Assessment for Engineering), 271, 274, 276, 281, 284
-subskill/sub-skill, 212, 215, 221, 224, 225, 237, 242, 257, 537
-and formative assessment, 268, 269
-washback, 274, 275
+subskill/sub-skill, 212, 215, 221, 224–25, 237, 242, 257, 537
+targeted pedagogical intervention, 269, 274, 276
+washback, 274–75
 Diagnostic English Language Assessment (DELA). See Diagnostic assessment/testing
 Diagnostic English Language Needs Assessment (DELNA). See Diagnostic assessment/testing, See Diagnostic assessment/testing
 Diagnostic English Language Tracking Assessment (DELTA). See Diagnostic assessment/testing
@@ -245,31 +246,32 @@ DIF (Differential item functioning), 74, 545, 582
 Differential facet functioning, 74
 Differential item functioning (DIF). See DIF
 Differential rater functioning (DRF). See DRF
-Dimension, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 63, 170, 272, 292, 390, 472, 474, 521, 537, 589
+Dimension, 52–55, 57–64, 170, 272, 292, 390, 472, 474, 521, 537, 590
 Discrete-point grammar test, 125
-DRF (Differential rater functioning), 184, 185, 186
+DRF (Differential rater functioning), 184–86
 Dunn’s Index, 199
 E
+E (Measurement error with the observed variable), 137
 Easability. See Text easability
 Education reform, 233, 304, 313, 419, 423, 466
 Educational policy
 accountability, 488
 gaps between policy and practice, 468
-literacy, 303 
-washback, 8, 441, 446, 447, 459, 460, 465, 466, 469, 487, 507
-
+literacy, 303
+washback, 8, 441, 445–47, 459–60, 465–66, 469, 487, 507
+Educational reform, 304, 313
 EFA (Exploratory factor analysis). See Statistical tests/tools
-EIKEN (Test in Practical English Proficiency), 8, 440, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459
+EIKEN (Test in Practical English Proficiency), 8, 440, 445–59
 Electroencephalography, 544
-ELL (English language learner), 9, 247, 487, 488, 489, 490, 491, 505, 506, 507, 508, 518
+ELL (English language learner), 9, 248, 487–91, 505–8, 518
 ELPA (English Language Proficiency Assessment), 238, 240
 ELT (English language teaching)
 EAP (English for academic purposes), 267
-EFL (English as a foreign language), 4, 5, 24, 49, 54, 57, 58, 61, 62, 63, 122, 128, 130, 140, 149, 150, 156, 158, 184, 185, 190, 195, 199, 292, 294, 329, 392, 441, 459, 465, 468, 478, 514, 515, 525, 526, 527, 575, 576, 584, 586
-ESL (English as a second language), 24, 36, 37, 40, 42, 69, 125, 173, 291, 322, 365, 389, 455, 468, 574, 577, 583, 584, 585, 586, 587, 590
+EFL (English as a foreign language), 4–5, 24, 49, 54, 57–58, 61–63, 122, 128, 130, 140, 149–50, 156, 158, 184, 185, 190, 195, 199, 292, 294, 329, 392, 441, 459, 465, 468, 478, 514–15, 525–27, 575–76, 584, 586
+ESL (English as a second language), 24, 36–37, 40, 42, 69, 125, 173, 291, 322, 365, 389, 455, 468, 574, 577, 583–87, 591
 ESP (English for specific purposes), 267
 in China, 465, 469
-EMI (English as the medium of instruction), 231, 232, 233, 235, 245, 267,  447, 535
+EMI (English as the medium of instruction), 231–33, 235, 245, 267, 447, 535
 Empathy Quotient (EQ). See EQ
 English as a Foreign Language (EFL). See ELT
 English as a second language (ESL). See ELT
@@ -281,19 +283,19 @@ English language learners (ELL). See ELL
 English Language Proficiency Assessment (ELPA). See ELPA
 English language teaching (ELT). See ELT
 EQ (Empathy Quotient), 103
-ERP (Event Related Potential), 93, 94
+ERP (Event Related Potential), 94
 Erratic performance. See Rater(s)
 Error of measurement
 mean squared, 41, 43
 standard, 73, 350, 580
 ESOL (English for Speakers of Other Languages), 130
-Essay writing, 68, 69, 71, 73, 78, 205, 373, 374, 382, 589
+Essay writing, 68–69, 71, 73, 79, 205, 374–75, 382, 590
 EVA (Evaluating strategies), 153
 EVA (Evaluating), 127, 129, 151
 Evaluating. See EVA
 Evaluating strategies. See EVA
 Evolution/Evolutionary
-algorithm, 38, 39, 40
+algorithm, 38–40
 biology, 40
 mechanism, 3
 Excel@English, 250
@@ -302,51 +304,50 @@ Extrapolation. See Validity
 F
 FACETS. See Rasch analysis, analyses
 Factor analysis. See Statistical tests/tools
-Fairness, 10, 71, 85, 168, 169, 170, 184, 222, 341, 390, 391, 422, 425, 487, 493, 545, 578, 583
-Familiarity of content words, 42, 43, 525
+Fairness, 10, 71, 86, 168–70, 171, 184, 222, 341, 390–91, 422, 425, 487, 493, 546, 578, 583
+Familiarity of content words, 42–43, 525
 Flesch Reading Ease, 21
 Flesch-Kincaid Grade Level, 21
-Fluency, 97, 98, 103, 125, 186, 188, 190, 192, 193, 194, 195, 196, 197, 198, 205, 206, 224, 295
-fMRI (Functional magnetic resonance imaging), 2, 4, 90, 91, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 105, 106, 107, 108, 109, 110, 539, 541
+Fluency, 97–98, 103, 125, 186, 188, 190, 192–98, 205–6, 224, 295
+fMRI (Functional magnetic resonance imaging), 2, 4, 90–91, 93–110, 539, 541
 Foreign language proficiency. See Language Proficiency
-Formative Assessment, 85, 419, 437, 452, 467
+Formative Assessment, 86, 419, 437, 452, 467
 feedback, 419, 452
-vs diagnostic assessment, 268, 269
+vs diagnostic assessment, 268–69
 Functional magnetic resonance imaging (fMRI). See fMRI
 G
 Ganglia. See Brain (research)
-Gao kao, 465, 466, 469, 470, 471, 473, 474, 475, 477, 479
-definition, 465
+Gao kao, 465–66, 469–71, 473–75, 477, 479
 Gaussian functions, 44
 GEN (General progression strategies), 153
 General English Proficiency Test (GEPT). See GEPT
 General progression strategies. See GEN
 General Test of English Language Proficiency (G-TELP). See G-TELP
-Generalizability, 172, 214, 215, 221, 222, 295, 321, 327, 332, 385, 412, 578
-	G-Theory, 321, 333, 578, 579
+Generalizability, 172, 214–15, 221–22, 295, 321, 327, 332, 386, 412, 578
+G-Theory, 321, 333, 578–79
 Genetic
-algorithm/algorithm-based symbolic regression, 2, 3, 36, 37. 38, 39, 40, 41, 44
-premature convergence, 40
+algorithm/algorithm-based symbolic regression, 2–3, 36–41, 44
 maximum error, 43
 mutation, 40
-GEPT (General English Proficiency Test), 8, 440, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 458
+premature convergence, 40
+GEPT (General English Proficiency Test), 8, 440, 445–55, 458
 Graduating Students’ Language Proficiency Assessment (GSLPA). See GSLPA
 GRAM (Grammatical in SEM analysis), 137
 Grammar
-ability, 123, 124, 125, 126, 130, 140
-knowledge, 123, 124, 125, 126, 130, 131, 152
+ability, 123–26, 130, 140
+knowledge, 123–26, 130–31, 152
 performance, 125, 139
-teaching, 57, 124, 125, 233, 235, 467,468, 473, 474, 475, 477, 480
-tests, 122, 124, 125, 126., 128, 129, 130, 131, 132, 125, 139, 173, 174, 176, 177, 241, 242, 257, 307
-GSLPA (Graduating Students' Language Proficiency Assessment), 238, 239, 584, 585
+teaching, 57, 233, 235, 467–68, 473–75, 477, 480
+tests, 122, 124–26, 128–32, 139, 173–74, 176–77, 241–42, 257, 307
+GSLPA (Graduating Students' Language Profiency Assessment), 238–39, 584–85
 G-TELP (General Test of English Language Proficiency), 502
-G-Theory (Generalizability Theory). See, Generalizability
+G-Theory (Generalizability Theory). See Generalizability
 H
 Hanyu Shuiping or Chinese Proficiency Test (HSK). See HSK
 Hierarchical clustering. See Statistical tests/tools, See Statistical tests/tools
 HKDSE (Hong Kong Diploma of Secondary Education), 233
-HKEAA (Hong Kong Examinations and Assessment Authority), 69, 70, 234, 235
-HKIEd (Hong Kong Institute of Education), 240, 241, 243, 246, 255, 256, 575, 583, 584, 585, 589
+HKEAA (Hong Kong Examinations and Assessment Authority), 69–70, 234–35
+HKIEd (Hong Kong Institute of Education), 240–41, 243, 246, 255–57, 575, 583–85, 590
 HKSAR (Hong Kong Special Administrative Region), 69, 232, 584
 Hong Kong Diploma of Secondary Education (HKDSE). See HKDSE
 Hong Kong Education Bureau, 73
@@ -354,16 +355,14 @@ Hong Kong Examinations and Assessment Authority (HKEAA). See HKEAA
 Hong Kong Institute of Education (HKIEd). See HKIEd
 Hong Kong Polytechnic University (PolyU). See PolyU
 Hong Kong Special Administrative Region (HKSAR). See HKSAR
-HSK (Hanyu Shuiping Kaoshi or Chinese Proficiency Test), 317, 318, 319, 320, 321, 323, 324, 325, 326, 327, 328
+HSK (Hanyu Shuiping Kaoshi or Chinese Proficiency Test), 317–21, 323–28
 Hypernym/Hypernymy. See Coh-Metrix
-
 I
 IDE (Identifying important information strategies), 153
-IELTS (International English Language Testing System), 124, 211, 215, 238, 239, 246, 364, 393, 444, 584,  , 
-ILTA (International Language Testing Association), 439, 594, 599, 601, 608
+IELTS (International English Language Testing System), 124, 211, 215, 238, 239, 246, 364, 393, 430, 444, 584, 595, 598, 600, 609
 Imagability. See Coh-Metrix
 Immersion, 235, 543, 545
-Impact, 2, 4, 8, 9, , 31, 39, 44, 82, 107, 109, 233, 234, 235, 246, 276, 290, 320, 337, 344, 347, 352, 392, 449, 445, 447, 466, 467, 469, 470, 472, 473, 475, 481, 488, 489, 493, 506, 507, 508, 517, 518, 574, 590, 603, 611., 46, 110, 113, 235, 236, 250, 277, 290, 321, 337, 345, 349, 393, 417, 438, 446, 447, 466, 467, 470, 472, 474, 475, 478, 479, 485, 489, 491, 495, 510, 511, 512, 518, 519, 574, 593
+Impact, 2, 4, 8–9, 31, 39, 45, 83, 107, 110, 233–36, 246, 250, 276, 290, 320, 337, 344, 347, 352, 392, 417, 436, 445–47, 449, 466–67, 469–70, 472–73, 475, 481, 488–89, 493, 506–8, 517–19, 574, 591, 604, 612
 Importance index/Importance indices, 17, 28, 29
 Importance statistics, 15, 17
 INF (Inference-making strategies), 153
@@ -377,89 +376,87 @@ Institute of International Education, 201
 INTE (Integrating strategies), 153
 Integrating strategies. See INTE
 Interactions
-bias, 186, 192, 198,    
+bias, 186, 191, 198
 International English Language Testing System (IELTS). See IELTS
 International Objective Measurement Workshops (IOMW). See IOMW
 Internet-based test (iBT). See TOEFL
 Invariance
 configural, 171, 174, 176, 179
-factorial or weak, 171, 174, 175, 176, 177, 178, 179
-strong factorial, 171, 174, 175, 176, 177, 178, 179
-IOMW (International Objective Measurement Workshops), 574
-IRT (Item response theory), 49, 53, 54, 131, 172, 242, 293, 536, 538, 581, 582, 596
-IT (Information Technology), 24-25, 28
+factorial or weak, 171, 174–79
+strong factorial, 171, 174–79
+IOMW (International Objective Measurement Workshops), 575
+IRT (Item response theory), 49, 53, 55, 131, 172, 242, 293, 536, 538, 581–82, 597
+IT (Information Technology), 24, 26
 Item difficulty
 estimates, 49, 412
-indices, 408, 410, 411
+indices, 408, 410–11
 levels, 25
 measures, 351
-parameters, 14, 25, 26, 49
-strata, 28
+parameters, 14, 25–26, 49
+strata, 26
 Item response theory (IRT). See IRT
 IUA (Inference Use Argument), 565
 J
-JALT (Japanese Association of Language Teachers), 575, 596, 605, 606
+JALT (Japanese Association of Language Teachers), 575–76, 597, 606–7
 Japan Association of Language Teachers (JALT). See JALT
 Japanese Ministry of Education, Sports, Science and Technology (MEXT). See MEXT
 K
 Korean Scholastic Aptitude Test (KSAT). See KSAT
 KSAT (Korean Scholastic Aptitude Test), 489, 507
 L
-
 Language Teaching Methods
 ALM (Audio Lingual Method), 468
-authenticity, 8, 109, 140, 364, 365, 381, 383, 384, 440, 460
-CLT (Communicative Language Teaching), 8, 465, 466, 467, 468, 469, 470, 471, 472, 476, 477,  480, 481, 609 
+authenticity, 8, 110, 140, 364–65, 381, 383–84, 440, 460
+CLT (Communicative Language Teaching), 8, 465–71, 476–77, 480–81, 610
 experiential learning and participation, 467
 explicit grammar instruction, 477
-Rosetta Stone, 4,  90, 98, 99, 100, 101, 102, 106, 107,  109, 118-120
+Rosetta Stone, 4, 90, 98–103, 106–8, 110, 119–21
 textbook-based, 479
 traditional grammar, 467
-transmission, 304, 424, 379
-Language use, 24, 123, 124, 126, 140, 150, 151, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 204, 206, 233, 365, 371, 393, 441, 444, 453, 560, 597 
+transmission, 304, 421, 479
+Language use, 24, 123–24, 126, 140, 150–51, 190–99, 204, 206, 233, 365, 371, 393, 441, 445, 453, 560, 598
 Latent
 ability, 559, 564
-    differential item functioning 74, 544
-factor, 136, 176, 177
-factors, 176-177
+differential item functioning, 74, 545
+factor, 136, 176–77
+factors, 176–77
 LSA (Latent semantic analysis), 42
 means, 171
-or unobservable, 536, 560, 561, 563, 569, 570
-trait models, 535, 536, 537, 538, 539
+or unobservable, 536, 560–61, 563, 569–70
+trait models, 535–39
 Latent semantic analysis (LSA). See Latent
 Learner-stakes, 247
-Left embeddedness, 14, 23, 26, , 28, 29
-LEX-GR (Lexico-grammatical reading ability), 136, 137, 138, 139, 149, 153, 154, 159, 161
-Lexical diversity, 16, 22, 23, 26, 28, 30, 39, 41, 42, 43, 44
+Left embeddedness, 14, 23, 26, 27–29
+LEX-GR (Lexico-grammatical reading ability), 136–39, 149, 153–54, 159, 161
+Lexical diversity, 14, 22–23, 26, 28, 30, 39, 41–44
 Lexical knowledge, 124, 126, 295
-Lexico-grammatical, 5, 122, 123, 124, 125, 126, 127, 131, 132, 133, 138, 139, 141, 142, 143, 150, 153, 155, 166
+Lexico-grammatical, 5, 122–27, 131–33, 138–40, 149, 152–53, 155, 161
 Lexico-grammatical reading ability (LEX-GR). See LEX-GR
 Lexile
-Analyzer, 4, 68, 71, 72, 73, 74, 75,  77, 78, 79, 80, 81, 82, 83,  85, 86, 88
-Framework, 71-72
+Analyzer, 4, 71, 68–87
+Framework, 71–72
 Framework for Writing, 72
-LID (Local item dependence), 53, 60, 62
-Likert scale, 156, 190, 273, 368, 470, 471, 474, 495
+LID (Local item dependence), 53, 54, 61, 63
+Likert scale, 156, 190, 273, 368, 470–71, 474, 495
 Linear
-quantity, 73
-regression, 18, 19, , 20, 36, 37, 38, 39, 43, 44, 294 
+quantity, 74
+regression, 18–20, 36–39, 43–44, 292
 Lingnan University (LU). See LU
 Listening Assessment
-comprehension, 56, 57, 63, 440, 
+comprehension, 57, 64, 440
 comprehension questions, 57, 460, 514, 517, 521
-    
-tests, 19, , 29, 441, ,444,, 445, 448, 449, 450, 537
+tests, 19, 221, 441, 444–45, 448–50, 538
 Literacy Assessment
 digital literacy, 339
 multimedia literacy, 337
 Literacy pedagogy, 337
 Local item dependence (LID). See LID
-Log-likelihood, 58-59
+Log-likelihood, 58–59
 Long-range constraints items. See LR
-LR (Long-range constraints items), 153, 154
-LU (Lingnan University), 232, 238, 241, 242, 243, 245, 255, 256, 284, 604 
+LR (Long-range constraints items), 153–54
+LU (Lingnan University), 231, 238, 241–43, 245, 255–57, 605
 M
-Macro-level, 93, 109, 110, 379
+Macro-level, 93, 109–11, 380
 Magnetic resonance imaging (MRI). See MRI
 Many-Facet Rasch Measurement (MFRM). See MFRM
 Maximum error. See Genetic
@@ -468,38 +465,38 @@ Mean absolute error, 41, 43
 Mean square. See Rasch analysis, analyses
 Mean squared error, 41, 43
 Measurement error with the observed variable. See E
-Measurement invariance, 167, 168, 169, 171,  172, 174, 175, 179, 583, 584
+Measurement invariance, 167–69, 171–72, 174–75, 179, 582–84
 Measuring the Academic Skills of University of Sydney Students (MASUS). See Diagnostic assessment/testing
 Mechanics. See Writing process
-MEM (Memory), 137,140
+MEM (Memory), 137
 Memory. See MEM
 abilities, 540
-capacity, 29, 540 
-components, 540, 541
+capacity, 29, 541
+components, 540–41
 declarative. See Declarative memory
 functions, 540
 model, 540
-research, 539
+research, 540
 short-term vs long-term, 540
-working, 23, 29, 102, 108, 127, 137, 540, 541
+working, 23, 29, 102, 108, 127, 137, 540–41
 Met (Metacognitive), 137
 Metacognitive. See Met
-and cognitive strategy, 136, 149, 150, 151, 152, 153, 156, 160, 161
+and cognitive strategy, 136, 149–53, 156, 160–61
 awareness, 150
 experience, 150
 knowledge, 150
-MCSUQ (Metacognitive and Cognitive Strategy Use Questionnaire), 149, 152, 153, 156, 157, 158 
-strategies, 122, 123, 126,  127, 129, 132, 134, 135, 150, 151, 153, 156, 371, 536
+MCSUQ (Metacognitive and Cognitive Strategy Use Questionnaire), 149, 152–53, 156–58
+strategies, 122–23, 126–27, 129, 132, 136, 134–36, 150–51, 153, 154, 156, 371, 536
 strategy use, 5, 136, 150, 153, 159
 Metacognitive and Cognitive Strategy Use Questionnaire (MCSUQ). See Metacognitive
 MEXT (Japanese Ministry of Education, Sports, Science and Technology), 185
-MFRM (Many-facets Rasch Measurement), 68, 70, 73, 78, 185, 186, 187, 188, 190, 195, 196, 199, 346, 349, 354, 355, 405, 406, 408, 578, 579, 598
-MHK (Minzu Hanyu Shuiping Kaoshi or Test of Chinese Proficiency for Minorities), 319,  325, 326, 333, 335 
+MFRM (Many-facets Rasch Measurement), 68, 70, 73, 78, 184–90, 195–96, 199, 346, 349, 354–55, 405–6, 408, 578–79, 599
+MHK (Minzu Hanyu Shuiping Kaoshi or Test of Chinese Proficiency for Minorities), 319, 325–26, 333–34
 Minzu Hanyu Shuiping Kaoshi or Test of Chinese Proficiency for Minorities (MHK). See MHK
-ML (Maximum likelihood), 59, 158, 174, 158, 174
+ML (Maximum likelihood), 59, 158, 174
 Modulation, 96
-MOI (Primary medium of instruction), 231, 232, 233
-MON (Monitoring Strategies),127, 137, 153
+MOI (Primary medium of instruction), 231–33
+MON (Monitoring Strategies), 127, 137, 153
 MON (Monitoring), 137, 153
 Monitoring. See MON
 Monitoring Strategies (MON). See MON
@@ -508,39 +505,39 @@ Motivation
 attributes, 491
 construct, 492
 definition, 492
-factors, 491, 494, 495, 497, 499, 500, 501, 502
+factors, 491, 494–95, 497, 499–502
 Motor cortex. See Brain (research)
 MRI (Magnetic resonance imaging), 93
 Multidimensional
-IRT, 53, 54, 56, 294, 537, 582, 583
-model, 49, 50, 60, 61, 63, 64
+IRT, 53–55, 293, 536, 581–82
+model, 49–50, 58–62
 Rasch
-deviance/deviances, 58, 59, 60 
+deviance/deviances, 58–61
 measurement, 2, 4, 14, 40, 49
-model, 3, 25, 26, 48, 49, 54, 57, 58, 71, 74, 80, 82, 83, 130, 295, 339, 354, 536, 537, 574, 575, 579, 581, 583, 585, 586, 591, 597
+model, 3, 25–26, 48–49, 54, 58–59, 72, 74, 81–83, 130, 295, 339, 354, 536–37, 574–75, 579–83, 585–86, 592
 structure, 48
 Multimodality/multimodal
 assessment, 339, 353
 assignments, 342, 352
 component, 353
-content, 7, 339, 340, 341, 342, 347, 351, 345
+content, 7, 339–42, 345, 347, 351
 creations, 338
 design, 353
-learning, learning outcomes, 238, 239, 304, 336, 338, 425, 426, 432, 451, 455, 469, 476, 488, 584
+learning, learning outcomes, 238–39, 304, 336, 338, 425–26, 432, 451, 455, 469, 476, 488, 585
 means, 340
-media, 341, 352
+media, 341, 353
 platforms, 355
 presentations, 7, 336
 skills, 338, 342
 sources, 341
-task, 339, 341, 342, 355 
+task, 339, 341, 342, 355
 task rubrics, 339
 texts, 339
-Multi-subtest foreign language assessments, 60
+Multi-subtest foreign language assessments, 61
 Multitrait-multimethod, 56
 Mutation. See Genetic
 N
-NAEP (National Assessment of Educational Progress), 67, 73, 78
+NAEP (National Assessment of Educational Progress), 68, 73, 79
 National Assessment of Educational Progress (NAEP). See NAEP
 National English Ability Test (NEAT). See NEAT
 National Matriculation English Test (NMET). See NMET
@@ -552,13 +549,13 @@ NET (Native English Teacher), 234
 Neural networks. See Brain (research)
 artificial. See ANN
 Neural substrates. See Brain (research)
-New National English Curriculum, 466, 467
+New National English Curriculum, 466–67
 New Senior Secondary (NSS). See NSS
 NFI (Normed Fit Index), 132
 NI (Necessary information), 25
 NMET (National Matriculation English Test), 130, 469, 479
 NNFI (Non-Normed Fit Index)
-known as Tucker Lewis Index, 132, 157, 158, 160 
+known as Tucker Lewis Index, 132, 157–58, 160
 Nomological net. See Validity
 Non-Normed Fit Index (NNFI). See NNFI
 Normed chi-square. See Statistitical tests/tools
@@ -567,18 +564,18 @@ NSS (New Secondary School), 232, 234
 O
 Objective Communicative Speaking Test OCST). See OCST
 Occupational English Test (OEC). See OEC
-OCST (Objective Communicative Speaking Test), 8, 298, 390, 391, 393, 411, 412
+OCST (Objective Communicative Speaking Test), 8, 389–91, 393, 411–12
 OEC (Occupational English Test), 187
 OLE (Other Learning Experience), 232
 Onscreen Marking (OSM). See OSM
 Open-ended
 comment, item, 470
-question, 190, 472, 476, 528 
+question, 190, 472, 476, 528
 Optimization, 40
-Optogenetics, 546, 547
+Optogenetics, 546, 548
 Oral proficiency. See Speaking Assessment
-Organization, 184, 186, 187, 189, 190, 192, 193, 194, 195, 196, 197, 198, 199, 204, 206, 215, 216, 272, 306, 307, 308, 322, 338, 341, 347, 348, 352, 353, 370, 374, 377, 452, 457, 470, 542, 558, 577
-ORTs (Operational rater types), 184, 185, 188, 194, 200
+Organization, 184, 186–87, 189–90, 192–99, 204, 206, 215–16, 272, 306–8, 322, 338, 341, 347, 348, 352–53, 370, 375, 378, 452, 457, 470, 542, 558, 577
+ORTs (Operational rater types), 184–85, 188, 194, 200
 OSM (Onscreen Marking), 69
 Other Learning Experience (OLE). See OLE
 Outfit. See Rasch analysis, analyses
@@ -591,23 +588,23 @@ Pearson Test of English (PTE). See PTE
 Pedagogies
 active-learning pedagogies, 304
 Pedagogy
-pedagogical intervention, 266, 268, 269, 272, 273
-Rosetta Stone, 4, 90, 98, 99, 100, 101, 102, 106, 107, 109, 118, 119, 120
-targeted pedagogical intervention/support, 267, 268, 269, 273, 277
+pedagogical intervention, 266, 268–69, 272, 274
+Rosetta Stone, 4, 90, 98–103, 106–7, 110, 119–21
+targeted pedagogical intervention/support, 267–69, 274, 277
 PELT (Practical English Level Test), 502
 People's Education Press (PEP). See PEP
 PEP (People's Education Press), 467
 Pilot
-study, 140, 546
-testing, 243, 244, 245, 256
-tests, 246, 247, 259, 260
-PLA (Planning strategies), 127, 133, 153 
-PLAN (Planning), 127, 132, 133, 134, 135, 137, 153, 161
+study, 140, 547
+testing, 243–45, 256
+tests, 243–44, 255
+PLA (Planning strategies), 127, 133, 153
+PLAN (Planning), 127, 132–35, 137, 153, 161
 Planning. See PLAN
 Planning strategies. See PLA
-Poisson logarithmic transformation, 74, 76
+Poisson logarithmic transformation, 75, 76
 Polysemy. See Coh-Metrix
-PolyU (Hong Kong Polytechnic University), 231, 250, 584, 594, 607
+PolyU (Hong Kong Polytechnic University), 231, 250, 255, 584, 595, 608
 Post-Entry Diagnostic Assessment (PEDA). See Diagnostic assessment/testing
 Post-Entry Language Assessment (PELA). See Diagnostic assessment/tesing
 Posterior Superior Temporal gyrus (pSTG). See pSTG
@@ -615,21 +612,21 @@ Post-structuralist/structural, 189, 493
 Practical English Level Test (PELT). See PELT
 Pragmatic
 and semantic adaptation, 515
-approach, 555, 556, 557, 558, 559, 567, 568, 569
+approach, 555–59, 567–69
 factors, 468
 interpretation, 563
 meaning, 126
 Pragmatism
 as an approach to validity, 555
 constructs or casual attributes, 555, 561, 569, 570
-definition of, 557 
+definition of, 557
 features of the Pragmatic approach, 558
 key principles of
 Pragmatism vs pragmatic approach, 555
 situational validity, 365
-symbolic interactionism, 561, 567
+symbolic interactionism, 562, 567
 unitary concept, 365
-Objections to Pragmatism, 560, 561
+Objections to Pragmatism, 560–61
 validation (argument and explanation), 565, 568
 validation (language assessment), 557, 565, 568, 570
 Precision. See ANN
@@ -640,67 +637,65 @@ Procedural
 knowledge, 126
 learning, 542
 memory, 543
-PROMS (Pacific Rim Objective Measurement Symposia), 574
+PROMS (Pacific Rim Objective Measurement Symposia), 575
 Pseudo F Index, 199
 Pseudo T-square Index, 199
-pSTG (Posterior Superior Temporal gyrus), 97б 
+pSTG (Posterior Superior Temporal gyrus), 98
 Psycholinguistic(s)
-and cognitive processes, 22
-attributes, 14б 37 
+and cognitive processes, 21
+attributes, 14, 37
 features, 21
 mechanisms, 45
-  
-research, 15, 109, 539
-tool, 36, 37
+research, 15, 110, 539
+tool, 36–37
 Psychometrics
 psychometric dimensions vs psychological dimensions, 537
 validity, 345, 354
 PTE (Pearson Test of English Academic), 211, 364, 444
 Putamen. See Brain (research)
-
 R
 Rasch analysis, analyses. See Multidimensional
 Infit
-and outfit, 26, 74, 80, 81, 82, 83, 346, 350, 407, 471, 474
-MNSQ (mean square), 25, 26, 78, 79, 80, 81, 82, 346, 350, 351, 354, 471, 474, 475
-MS (mean square), 406, 407, 408
-Zstd, Z standardized, 79, 80, 81, 82
-Outfit. 
-reliability, 26, 62, 157, 158 
+and outfit, 26, 74, 81–84, 346, 350, 407, 471
+MNSQ (mean square), 25–26, 78–82, 83, 346, 350–51, 354, 471, 474–75
+MS (mean square), 406–8
+Zstd, Z standardized, 80–83
+Outfit
 mean square, 407
-measurement, 80 - pls confirm 
-      MNSQ, 25, 26, 81, 82, 351, 471, 475
-model, 80
+measurement, 81
+MNSQ, 25–26, 82–83, 351, 471, 475
+model, 81
 Rasch-Andrich rating scale model, 471, 474
+reliability, 26, 63, 157, 158
 separation, 26
 software
-ConQuest, 58, 59
+ConQuest, 58–59
 FACETS, 73, 190, 405, 578, 584
 WINSTEPS, 74, 243, 471, 584, 585
-statistics, 79, 80, 81, 82, 83, 407
+statistics, 80–84, 407
 subdimension model, 53
 Rasch-Andrich rating scale model (RSM). See Rasch analysis, analyses
-Rater(s)
+Rater
 coverage, 401
 difficulties, 405
 drift, 390
 effects, 185, 411, 412, 578
-erratic performance, 81, 82, 583
+erratic performance, 82–83, 583
 reliability, inter-rater, 104, 317, 320, 321, 324, 328, 332
 judgements, 583
-native-English-speaker-raters. See NESs
-severity, 41, 78, 186, 407, 578
+native-Englsih-speaker-raters. See NESs
+severity, 41, 79, 186, 407, 578
 training, 186, 321, 332
 variability, 390
-Rating scale. See Scales/Rubrics
-Rater types 
-automated vs human, 70, 83, 85, 324, 325, 326
+Rater types
+automated vs human, 70, 84, 86, 324–26
 characteristics, 70, 317, 320, 322, 328, 332, 578
 experienced vs inexperienced, 320, 322, 332
-human, 44, 68, 71, 74, 78, 79, 80, 81, 83, 85, 99, 185, 215, 247, 325, 326, 327, 333, 334
+human, 44, 68, 71, 74, 78–81, 82, 84, 86, 99, 185, 215, 247, 325–27, 333–34
+Rating scale. See Scales/Rubrics
 Readability. See Coh-Metrix
 Reading Assessment
- ability
+ability
 generalizing, 516
 inferencing, 516
 summarizing, 516
@@ -709,14 +704,12 @@ background knowledge, 516
 cognitive processes, 519
 comprehension, 514, 515, 517
 factor, 519
-item, question, 20, 24, 57, 62, 155, 514, 517
-test, 3, 5, 9, 14, 19, 25, 150, 152, 155, 160, 522, 523
+item, question, 20, 24, 57, 63, 155, 514, 517
+test, 3, 5, 9, 14, 19, 25, 150, 152, 155, 160, 522–23
 continuum, 71
 development. See Scales/Rubrics
-  domain specific, 516 
+domain specific, 516
 factor, 175
- construction-integration model, 526
- non-interface model, 526 
 prior knowledge, 517
 schemas
 content, 517
@@ -724,13 +717,13 @@ formal, 517
 schemata, 517
 abstract, 517
 story, 517
-test item difficulty, 18, 19, 20, 24, 30
+test item difficulty, 18–20, 24, 30
 test performance, 5, 149, 152, 154, 156, 157, 160, 161, 162
 Reading for explicit meaning items (REM). See REM
 Reading for implicit meaning items (RIM). See RIM
 Reading in-Depth (RID). See RID
 Reading Instruction
-materials, 72, 86, 518, 520, 527
+materials, 72, 87, 518, 520, 527
 practice, 474
 practice test, 156
 program, 71, 295
@@ -738,12 +731,12 @@ Rebuttal. See Validity
 Receiver operating characteristic (ROC). See ROC
 Regression. See Statistical tests/tools
 Reliability
-analyses, analysis, 128, 131, 132, 496
+analyses, analysis, 128, 131–32, 496
 coefficient, 52, 323, 349, 350
-estimates, 26, 62, 132, 157, 158
-item, 25, 26, 472, 474
+estimates, 26, 63, 132, 157, 158
+item, 25–26, 472, 474
 of separation, 351, 406, 407
-person, 25, 26, 349, 350, 471
+person, 25–26, 349–50, 471
 separation estimates, 407
 statistics, 25, 471
 REM (Reading for explicit meaning items), 153
@@ -752,7 +745,7 @@ Retrieval. See RET
 RID (Reading in-Depth), 156
 RIM (Reading for implicit meaning items), 153
 RMSE (Root Mean Square Error), 41
-RMSEA (Root Mean Square Error of Approximation), 132, 135, 136, 137, 138, 157, 158, 159, 160, 174, 175, 176
+RMSEA (Root Mean Square Error of Approximation), 132, 135–38, 157–60, 174–76
 ROC (Receiver operating characteristic), 17
 Root Mean Square Error (RMSE). See RMSE
 Root Mean-Square Error of Approximation (RMSEA). See RMSEA
@@ -760,8 +753,8 @@ Rosetta Stone. See Pedagogy
 Rotation. See Factor analysis
 S
 S (State), 137
-SAT (Scholastic Assessment Test), 19, 20, 590
-SBA (School-Based Assessment), 234, 235
+SAT (Scholastic Assessment Test), 19–20, 591
+SBA (School-Based Assessment), 234–35
 Scales/Rubrics, 306
 defining at-risk, 272
 development, 583
@@ -769,25 +762,24 @@ generic, indigenous, and argumentation, 272
 holistic and analytic scales, 322
 multimodal, 340
 prompt difficulty, 578
-synthesized/hybrid scale (engineering), 274, 284
 scored category, 75
+synthesized/hybrid scale (engineering), 274, 284
 writing assessment. See assessment of writing
 Scanning items. See SKN
 Scholastic Assessment Test (SAT). See SAT
 School-Based Assessment (SBA). See SBA
 SC-TOP (Steering Committee for the Test of Proficiency-Huayu), 319
-Second-order model, 49, 50, 51
+Second-order model, 234–35
 SEDC (Standard Education Development Commission), 466
 Self-Assessment for Engineering (SAFE). See Diagnostic assessment/testing
 Semantic
 adaptations, 515
 analysis, 42
 complexity, 72
-meanings, 122, 123, 126
+meanings, 122–23, 126
 properties, 545
 SEN (Special Education Needs), 73
 Senior secondary (SS). See SS
-Sensitivity. See ANN
 Sentence adjacent. See Coh-Metrix
 Separation. See Rasch analysis, analyses
 Short-range constraints items. See SR
@@ -798,14 +790,13 @@ Skimming items. See SKM
 SKM (Skimming items), 153
 SKN (Scanning items), 153
 SKSN (Skimming and Scanning), 154, 156
-SLA (Second Language Acquisition), 4, 90, 91, 92, 93, 110, 125, 441, 465, 534
-Social and affective strategies, 368, 371, 372
+SLA (Second Language Acquisition), 4, 90–93, 110, 125, 441, 465, 534
+Social and affective strategies, 368, 371–72
 Speaking Assessment
-ability, 170, 227, 389, 409, 411, 412, 473, 476
-activities, 474, 475, 479, 480
-and writing, 185, 187, 233, 241, 243, 247, 248, 299, 364, 584
+ability, 170, 227, 389, 409, 411–12, 473, 476
+activities, 475, 479, 480
+and writing, 185, 187, 233, 241, 243, 247–48, 300, 364, 584
 skills, 223, 240, 391
-      
 Special Educational Needs (SEN). See SEN
 Special Interest Group (SIG). See SIG
 Specificity, 17, 27, 39, 222, 282, 563
@@ -817,41 +808,40 @@ Standard Education Development Commission (SEDC). See SEDC
 Standard error. See Error of measurement
 State. See S
 Statistical
-analysis, analyses, 128, 136, 157, 158, 241, 580
-data mining, 2, 3, 13, 38, 374, 535
+analysis, analyses, 128, 136, 157–58, 241, 580
+data mining, 2–3, 13, 38, 375, 535
 evidence, 132, 188, 190, 196
 information, 39
 method, 36
 model, 139, 326
 power, 173
 problem, 55
-procedures, 495, 496
+procedure, 495–96
 significance/significant, 15, 133, 170, 190, 498
 techniques, 580
-validity (statistical) , 73
-Statistical Package for the Social Sciences (SPSS). See SPSS Statistical tests/tools
+validity, 74
+Statistical Package for the Social Sciences (SPSS). See SPSS
 Statistical tests/tools, 158
-ANOVA, 495, 496, 497, 499, 504
- Chi-square, 59, 74, 79, 80, 81, 136, 157, 174, 407
+ANOVA, 495–97, 499, 504
+CFA (Confirmatory factor analysis), 54, 123, 136, 157–58, 167–68, 170, 496
+Chi-square, 59, 74, 80–82, 136, 157, 174, 407
 Coh-Metrix. See Coh-Metrix
 correlation. See Correlation
-EFA (Exploratory factor analysis), 55, 170, 494, 495, 496, 497, 512
+EFA (Exploratory factor analysis), 55, 170, 494–97, 512
 Factor analysis, 5, 172, 496
-CFA (Confirmatory factor analysis), 54, 123, 136, 157, 158, 167, 168, 170, 495
-	 factor structure, 5, 48, 49, 167, 168, 172, 177, 589
-	 factorial structure, 49, 54, 55, 168, 169, 171, 172, 173
-	 first-order factors, 50, 55, 56, 135, 170
-	 higher-order factor, 50, 55, 170, 174, 175
-	 rotation, 55, 170
+factor structure, 5, 48–49, 172, 177, 590
+factorial structure, 54–55, 56, 168–69, 171–73
+first-order factors, 50, 55–56, 135, 170
+higher-order factor, 50, 55, 170, 174–75
+rotation, 55, 170
 Hierarchical clustering, 197
 multiple regression, 19, 21, 325
 NC (Normed chi-square), 157, 158
-regression, 17, 37, 39, 325, 326, 327, 333, 334
-SEM (Structural-Equational Modeling), 49, 62, 122, 123, 131, 135, 136, 138, 139, 149, 151, 157, 159, 160, 162, 580, 581
+regression, 17, 37, 39, 325–27, 333–34
+SEM (Structural-Equational Modeling), 49, 63, 122–23, 131, 135–36, 138–39, 149, 151, 157, 159, 160, 162, 580–81
 SPSS (Statistical Package for Social Sciences), 132, 371, 471, 495
-	Systat, 196, 199
+Systat, 196, 199
 uncorrelated (factors), 50, 170
-
 Steering Committee for the Test of Proficiency-Hanyu (SC-TOP). See SC-TOP
 STR_U (Strategy use), 153
 Strategy use. See STR_U
@@ -859,11 +849,11 @@ Structural Equation Modeling (SEM). See Statistical tests/tools
 Style and Quality of Expression. See Writing Assessment
 Subcortical. See Brain (research)
 Subskill/Sub-skill. See Diagnostic assessment/testing
-Summative Assessment, 8, 85, 237, 419, 422, 423, 437, 465
+Summative Assessment, 8, 86, 237, 419, 422–23, 437, 465
 tests, 419, See Listening Assessment, Reading Assessment, etc.
 Symbolic regression. See Genetic
 Syntactic
-complexity, 14, 22, 23, 29, 37, 41
+complexity, 14, 22–23, 29, 37, 41
 integration, 97, 98
 pattern, 23, 291
 process, 95
@@ -874,7 +864,7 @@ sophistication, 72
 structure, 23, 95
 Synthesized Rating Scale for Diagnostic Assessment, 284
 Systat. See Statistical tests/tools
-Sytematic subpatterns, 186
+Systematic subpatterns, 186
 Systemizing Quotient (SQ). See SQ
 T
 T (Trait), 137
@@ -883,27 +873,27 @@ academic, 303
 computer-administered, 271
 generic vs disciplinary, 272
 interaction between task and rating scale, 270
-multimodal, 339, 341, 342, 355
+multimodal, 339, 341–42, 355
 performance based, 7
-situational authenticity, 383
+situational authenticity, 384
 validation, 324
 writing task design, 271, 322
 TDNs (TestDaF-Niveaustufen), 187
 TEA (Testing, Evaluation and Assessment), 430
 Teachers
 assessment practices, 419
-attitudes, awareness, beliefs, 420, 421, 426, 429, 470
+attitudes, awareness, beliefs, 420–21, 426, 429, 470
 knowledge of assessment, 419
- professional development/training, 8, 86, 420, 421, 423,424, 429, 431, 432, 466, 469, 470, 480, 481, 482
+professional development/training, 8, 87, 420–21, 423–24, 429, 431–32, 466, 469–70, 480–82
 teacher-made test, 583
 teaching conditions, 469
 Teachers of English to Speakers of Other Languages (TESOL). See TESOL
-TELT (Tertiary English Language Test), 241, 242, 243, 244, 246, 247, 255, 256, 583, 584, 585, 588, 589, 590, 591
+TELT (Tertiary English Language Test), 241–44, 246–47, 255–56, 583–85, 589–92
 TEPS (Test of English Proficiency), 489
 Territory-wide System Assessment (TSA). See TSA
 Tertiary English Language Test (TELT). See TELT
-TESOL (Teachers of English to Speakers of Other Languages), 428, 430, 431, 432, 433
-Test authenticity, 140, 384
+TESOL (Teachers of English to Speakers of Other Languages), 428, 430–33
+Test authenticity, 140, 385
 Test form(s)/versions
 CAT (computer-adaptive test), 8, 412
 Computer Objective Test, 389
@@ -920,7 +910,7 @@ Test of German as a Foreign Language (TestDaF). See TestDaF
 Test of Practical Chinese (C-Test). See C-Test
 Test of the Skills in English Language (TOSEL). See TOSEL
 Test preparation
-hakwans, 489, 490
+hakwans, 489–90
 teaching to the test vs learning-oriented, 420
 time, 494, 497, 504
 Test takers
@@ -935,11 +925,11 @@ young-adolescent, 489
 Test/item format
 comprehension questions, 57, 460, 514, 521, 532
 IF (item facility), 521
-inferential, 514, 515, 516, 517, 519, 520, 521, 522, 523, 524, 525, 526, 527, 532
+inferential, 514–17, 519–27, 532
 item writing, 583
-literal, 9, 514, 515, 516, 517, 519, 520, 521, 522, 523, 524, 525, 526, 527, 532
-multiple-choice, 57, 131, 132, 156, 173, 241, 243, 255, 322, 323, 332, 514, 521, 528
-TestDaF (Test of German as a Foreign Language), 185, 187, 188
+literal, 9, 514–17, 519–27, 532
+multiple-choice, 57, 131–32, 156, 173, 241, 243, 255, 322, 323, 322–23, 332, 514, 521, 528
+TestDaF (Test of German as a Foreign Language), 185, 187–88
 TestDaF-Niveaustufen (TDNs). See TDNs
 Testing, Evaluation and Assessment (TEA). See TEA
 Testlet response theory (TRT). See TRT
@@ -950,14 +940,14 @@ print and digital, 340
 Text comprehension reading ability. See TxtCOM
 TLI (Tucker Lewis Index). See NNFI
 TOCFL (Test of Chinese as a FOreign Language), 319, 321, 328, 329, 332
-TOEFL (Test of English as a Foreign Language), 7, 124, 201, 211, 302, 364, 366, 393, 399, 406, 409, 410, 411, 412, 432, 444, 489, 490, 494, 502, 504, 505, 506, 507, 589, 590
+TOEFL (Test of English as a Foreign Language), 7, 124, 201, 211, 302, 364, 366, 393, 399, 406, 410, 409–12, 432, 444, 489, 490, 494, 502, 504–8, 590–91
 CBT (computer-based test), 489
 iBT (internet-based test), 489
 PBT (paper-based test), 489
 TOEIC (Test of English for International Communication), 170, 319, 393, 490, 502, 507, 520
 TOSEL (Test of the Skills in English Language), 502
 Training/Professional Development, 470
-cascade model, 421
+cascade model
 definition, 421
 English teacher training program, 470
 in-service, 420
@@ -968,43 +958,42 @@ reflective journals, 426
 rural vs urban, 478
 teacher education programs, 584
 Trait. See T
-Trait and state, 122, 123, 128, 131, 132, 134, 135, 136, 139
+Trait and state, 122–23, 128, 131–32, 134–36, 139
 TRT (Testlet response theory), 53
 TSA (Territory-wide System Assessment), 233
 TxtCOM (Text comprehension reading ability), 153
 Type-token ratio, 19, 23, 28, 42
 U
-UGC (University Grants Committee), 237, 239, 240, 244, 246, 584, 585, 590
+UGC (University Grants Committee), 237, 239, 240, 244, 246, 584–85, 591
 Uncorrelated. See Statistical
 Unidimensional
 construct, 58
 latent trait models, 537
 measure, 52
-model, 49, 50, 58, 59, 60, 61, 62
-or uni-factorial, 589
+model, 49–50, 58–63
+or uni-factorial, 590
 Rasch model, 58, 411
 Unitary
 concept, 365
 construct, 169
 inferences, 365
-model, 151, 152, 153, 157, 159, 160
+model, 151–53, 157, 159–60
 UCH (Unitary competence hypothesis), 55, 169, 170
 Unitary competence hypothesis (UCH). See UCH
 University Grants Committee (UGC). See UGC
 University of Tehran English Proficiency Test (UTEPT). See UTEPT
-UTEPT (University of Tehran English Proficiency Test), 167, 169, 171, 173, 175, 177, 178, 179
+UTEPT (University of Tehran English Proficiency Test), 167, 169, 171, 173, 175, 177–79
 V
 Validation
-exploration (inferences), 214, 215, 223, 227, 365
-extrapolation (inferences), 214, 215, 223, 227, 365, 366
+exploration (inferences), 214–15, 223, 227, 365
+extrapolation (inferences), 215, 223, 227, 365–66
 Validity, 577
-argument, 210, 213, 214, 220, 226, 555, 565, 566, 567, 568, 571, 577
+argument, 210, 213–14, 220, 226, 555, 565–68, 571, 577
 argumentation, 555, 557, 568
-claims, 221, 222, 223, 224, 225, 227, 566
-warrants, 220, 221, 222, 223, 224, 225, 227, 566
-cognitive validity, 123, 128, 138, 365, 382, 383
+claims, 221–25, 227, 566
+cognitive validity, 123, 128, 138, 365, 383–84
 concurrent validity, 577
-consequential, 445, 446, 577
+consequential, 445–46, 577
 construct validity, 49, 168, 179, 295, 445, 459, 563, 570, 577
 face validity, 460, 577
 generalization (inference), 222, 227
@@ -1013,43 +1002,44 @@ inference, 7, 92, 178, 227
 to the best explanation, 555, 568
 nomological net, 561, 563, 569, 570
 rebuttal, 365
-validation, 4, 7, 10, 36, 37, 38, 39, 41, 42, 43, 45, 168, 213, 215, 227, 239, 241, 244, 257, 258, 293, 295, 324, 336, 364, 383, 446, 534, 565, 567, 568, 569, 577
-validity argument framework, 9, 10, 577
+validation, 4, 7, 10, 36–39, 41–43, 45, 168, 213, 215, 227, 239, 241, 244, 257, 258, 293, 295, 324, 336, 364, 384, 446, 534, 565, 567–69, 577
+validity argument framework, 9–10, 577
+warrants, 220–25, 227, 566
 Verb. See Coh-Metrix
 VOC (Vocabulary), 137
 Vocabulary. See VOC
 Vocabulary Assessment
-bilingual assessment, 6, 286, 287, 288, 292, 293, 294, 295, 296
-context, 286, 287, 289, 299
-development, 292, 294, 295, 296
+bilingual assessment, 6, 286–88, 292–96
+context, 286–87, 289, 300
+development, 292, 294–96
 growth, 290
-knowledge, 288, 294, 295
+knowledge, 288, 294–95
 VST (Vocabulary Size Test), 286
 as a diagnostic test of vocabulary, 296
 composition of, 288
 definition, 286
-word familiarity, 38, 39, 44
+word familiarity, 38–39, 44
 Vocabulary Size Test (VST). See VST
 W
 Warrant. See Validity
 Washback
-intensity, 487, 488, 490, 506, 507
-positive, 274, 275, 294, 446, 447, 459, 460
-studies, 446, 447
+intensity, 487–88, 490, 506–7
+positive, 274–75, 294, 446–47, 459–60
+studies, 446–47
 washback effect, 445, 459, 466, 469, 471
 Web-based
 assessment, 244, 257, 259
 system, 244
-Weight (ANN), 17, 18
+Weight (ANN), 17–18
 Weighted least squares means and variance adjusted (WLSMV). See WLSMV
 Weighted root mean square residual (WRMR). See WRMR
 WINSTEPS. See Rasch analysis, analyses
-WLSMV (Weighted least squares means and variance adjusted), 174, 175
+WLSMV (Weighted least squares means and variance adjusted), 175
 Writing Assessment
-ability, 3, 71, 72, 227, 323, 332, 333, 384, 447, 578, 583
-academic assignments, 363, 379, 381
+ability, 3, 71–72, 227, 323, 332–33, 385, 447, 578, 583
+academic assignments, 363, 380, 382
 Academic English writing proficiency, 363
-assignments, 7, 216, 363, 364, 367, 368, 370, 380, 381, 382, 473
+assignments, 7, 216, 363–64, 367–69, 370, 381–82, 383, 473
 at tertiary level, 248
 automated scoring. See AES
 categories, 188
@@ -1057,27 +1047,27 @@ components, 333
 conventions, 204
 exam, 216
 in Chinese as a Second Language, 7, 327
-problems, 376
+problems, 377
 proficiency, 51, 324
 prompts, 73
-quality, 3, 41, 42, 44, 45, 72, 205, 206
+quality, 3, 41–42, 44–45, 72, 205, 206
 rater, 222
 samples, 21, 273, 281
 scores, 38, 333
-section, 187, 222, 319, 320, 323, 324, 328, 329
+section, 187, 222, 319–20, 323–24, 328–29
 study, 23
-Style and Quality of Expression, 190, 192, 193, 194, 195, 197, 198, 204, 206
-task, 217, 258, 271, 272, 274, 281, 320, 322, 323, 324, 332, 368, 371, 381, 383, 384
+Style and Quality of Expression, 190, 192–95, 197–98, 204, 206
+task, 217, 258, 271–72, 274, 281, 320, 322–24, 332, 368, 372, 382, 384–85
 teachers, 339
-tests, 258, 273, 317, 322, 323, 327, 328, 364, 365, 381, 382, 383, 384
+tests, 258, 273, 317, 322–24, 327–28, 364–65, 382–85
 Writing process
-mechanics, 191, 192, 193, 194, 195, 197, 198, 199, 200, 204, 206, 347, 350, 351, 354
-post-writing, 366, 368, 372, 376, 377, 378, 381
-pre-writing, 366, 368, 372, 374, 375, 378, 380
+mechanics, 191–95, 197–200, 204, 206, 347, 350–51, 354
+post-writing, 366, 368, 372, 377–79, 382
+pre-writing, 366, 368, 372, 375–76, 379, 381
 reflective journal, 423
 Writing strategies
-questionnaire, 382
-WRMR (Weighted root mean square residual), 175, 176
+questionnaire, 383
+WRMR (Weighted root mean square residual), 175–76
 Y
 YCT (Youth Chinese Test), 318
 Youth Chinese Test (YCT). See YCT
